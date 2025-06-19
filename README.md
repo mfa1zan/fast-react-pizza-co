@@ -2,7 +2,7 @@
 
 This is a simple React project for a pizza restaurant menu page, created as part of a React learning tutorial from Udemy. The project showcases how to use React components and how to structure a basic application.
 
-![Pizza Menu Screenshot](.assets/Web%20Page.png)
+![Pizza Menu Screenshot](./assets/Web%20Page.png)
 ## Features ✨
 
 - Displays a pizza menu with various items 🍕.
