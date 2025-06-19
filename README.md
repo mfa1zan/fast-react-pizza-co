@@ -7,7 +7,6 @@ This is a simple React project for a pizza restaurant menu page, created as part
 
 - Displays a pizza menu with various items 🍕.
 - Simple React components for the UI ⚛️.
-- Responsive and clean design 📱.
 
 ## Installation 🛠️
 
