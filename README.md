@@ -25,17 +25,6 @@ Then, navigate to the project directory:
 cd fast-react-pizza-co
 ```
 
-Install dependencies using npm:
-
-```bash
-npm install
-npx create-react-app@5 pizza-menu
-```
-
-
-```
-node_modules/
-```
 
 ## Run the Project 🚀
 Once dependencies are installed, run the project locally with:
