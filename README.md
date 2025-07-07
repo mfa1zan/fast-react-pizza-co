@@ -63,6 +63,6 @@ This project is licensed under the MIT License.
 This project is based on a Udemy tutorial on learning React. Special thanks to the instructor for providing such clear and concise guidance!
 
 ### Key Points to Note: 📌
-1. **Instructions to Use the Project:** I’ve included steps for installing dependencies, running the project, and building it for production.
+1. **Instructions to Use the Project:** I’ve included dependencies, running the project, and building it for production.
 
 This should work perfectly for a beginner project and guide others on how to set up and run the application!
