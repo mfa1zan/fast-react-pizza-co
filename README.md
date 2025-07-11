@@ -65,4 +65,4 @@ This project is based on a Udemy tutorial on learning React. Special thanks to t
 ### Key Points to Note: 📌
 1. **Instructions to Use the Project:** I’ve included dependencies, running the project, and building it for production.
 
-This should work perfectly for a beginner project and guide others on how to set up and run the application!!
+This should work perfectly for a beginner project and guide others on how to set up and run the application!
